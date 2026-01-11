@@ -12,7 +12,7 @@ Or, you can watch this video demo
 
 https://user-images.githubusercontent.com/109053279/178185429-8de77574-cc2f-429f-8c4e-b1ed9f290894.mp4
 
-## 😃 Features:
+##  Features:
 
 - ➕ Add todos
 - 🗑️ Delete todos
@@ -20,6 +20,4 @@ https://user-images.githubusercontent.com/109053279/178185429-8de77574-cc2f-429f
 - ▶️ Load the todos from Local Storage when the site is loaded again
 - 🌙 Light \ dark mode toggle
 
-<p align="center">
-  ❤️ Feel free to create issues and contributions for features or bugs to this project.
-</p>
+Link of to do app - https://javascriptbear.github.io/todo_react_app/
